@@ -11,3 +11,4 @@ The list of zombies to which I added CBM:
 - cop, 
 - survivor and Elite survivor.
 Due to the fact that I did not find any bio ops in the Experimental builds, I cut them out.
+- I coded and tested in the version: Cataclysm-DDA experimental build 2026-05-21-2311 Pre-release
