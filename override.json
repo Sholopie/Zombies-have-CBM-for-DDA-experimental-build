@@ -1,0 +1,129 @@
+[
+  {
+    "id": "mon_zombie_kevlar_0",
+    "type": "MONSTER",
+    "name": { "str": "Kevlar zombie"},
+    "copy-from": "mon_zombie_kevlar_0",
+    "dissect": "dissect_zombie_kevlar"
+  },
+  {
+    "id": "mon_zombie_kevlar_1",
+    "type": "MONSTER",
+    "name": { "str": "Kevlar brute" },
+    "copy-from": "mon_zombie_kevlar_1",
+    "dissect": "dissect_zombie_kevlar"
+  },
+  {
+    "id": "mon_zombie_kevlar_2",
+    "type": "MONSTER",
+    "name": { "str": "Kevlar hulk" },
+    "copy-from": "mon_zombie_kevlar_2",
+    "dissect": "dissect_zombie_kevlar_heavy"
+  },
+  {
+    "id": "mon_zombie_scientist",
+    "type": "MONSTER",
+    "name": { "str": "zombie scientist" },
+    "copy-from": "mon_zombie_scientist",
+    "dissect": "dissect_mon_zombie_scientist"
+  },
+  {
+    "id": "mon_zombie_swat",
+    "type": "MONSTER",
+    "name": { "str": "SWAT zombie" },
+    "copy-from": "mon_zombie_swat",
+    "dissect": "dissect_mon_zombie_swat"
+  },
+  {
+    "id": "mon_zombie_medical",
+    "type": "MONSTER",
+    "name": { "str": "zombie medic" },
+    "copy-from": "mon_zombie_medical",
+    "dissect": "dissect_zombie_medical"
+  },
+  {
+    "id": "mon_zombie_medical_regenerating",
+    "type": "MONSTER",
+    "name": { "str": "regenerating zombie medic" },
+    "copy-from": "mon_zombie_medical_regenerating",
+    "dissect": "dissect_zombie_medical"
+  },
+  {
+    "id": "mon_zombie_medical_brute",
+    "type": "MONSTER",
+    "name": { "str": "medical horror" },
+    "copy-from": "mon_zombie_medical_brute",
+    "dissect": "dissect_zombie_medical"
+  },
+  {
+    "id": "mon_zombie_labsecurity",
+    "type": "MONSTER",
+    "name": { "str": "zombie security guard" },
+    "copy-from": "mon_zombie_labsecurity",
+    "dissect": "dissect_zombie_kevlar"
+  },
+  {
+    "id": "mon_zombie_hazmat",
+    "type": "MONSTER",
+    "name": { "str": "hazmat zombie" },
+    "copy-from": "mon_zombie_hazmat",
+    "dissect": "dissect_mon_zombie_hazmat"
+  },
+  {
+    "id": "mon_zombie_technician",
+    "type": "MONSTER",
+    "name": { "str": "zombie technician" },
+    "copy-from": "mon_zombie_technician",
+    "dissect": "dissect_mon_zombie_technician"
+  },
+  {
+    "id": "mon_zombie_electric",
+    "type": "MONSTER",
+    "name": { "str": "shocker zombie" },
+    "copy-from": "mon_zombie_electric",
+    "dissect": "dissect_zombie_humanoid_electric"
+  },
+  {
+    "id": "mon_zombie_brute_shocker",
+    "type": "MONSTER",
+    "name": { "str": "shocker brute" },
+    "copy-from": "mon_zombie_brute_shocker",
+    "dissect": "dissect_zombie_humanoid_electric"
+  },
+  {
+    "id": "mon_zombie_static",
+    "type": "MONSTER",
+    "name": { "str": "zapper zombie" },
+    "copy-from": "mon_zombie_static",
+    "dissect": "dissect_zombie_humanoid_electric"
+  },
+  {
+    "id": "mon_zombie_cop",
+    "type": "MONSTER",
+    "name": { "str": "zombie cop" },
+    "copy-from": "mon_zombie_cop",
+    "dissect": "dissect_mon_zombie_cop"
+  },
+  {
+    "id": "mon_zombie_survivor",
+    "type": "MONSTER",
+    "name": { "str": "survivor zombie" },
+    "copy-from": "mon_zombie_survivor",
+    "dissect": "dissect_mon_zombie_survivor"
+  },
+  {
+    "id": "mon_zombie_survivor_elite",
+    "type": "MONSTER",
+    "name": { "str": "veteran survivor zombie" },
+    "copy-from": "mon_zombie_survivor_elite",
+    "dissect": "dissect_mon_zombie_survivor_elite"
+  },
+  {
+    "id": "mon_zombie_nullfield",
+    "type": "MONSTER",
+    "name": { "str": "incandescent husk" },
+    "copy-from": "mon_zombie_nullfield",
+    "dissect": "dissect_zombie_humanoid_electric",
+    "//": "(22.05.2026) мой комментарий насчет переноса этого мода на Cataclysm-DDA experimental build такой... Я В шоке от нового лора уж лучше буду в Bright nights играть чем в это. нет реально во что игру превартили? И почему надо вписывать (name:) если я хочу запатчить существо? разве благо я разобрался и надо писать оригинальные имена с оригинального кода что бы локализация сработала"
+  }
+]

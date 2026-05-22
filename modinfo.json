@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Zombies_have_CBM_exp",
+    "name": "Zombies have CBM Experimental",
+    "authors": [ "Sholopie" ],
+    "description": "Did you play Cataclysm BN And when you tried CDDA you were disappointed that zombies don't have CBM When dissection? This mod is for you (it's version for Experimental)",
+    "category": "rebalance",
+    "version": "0.0.1",
+    "dependencies": [ "dda" ]
+  }
+]
